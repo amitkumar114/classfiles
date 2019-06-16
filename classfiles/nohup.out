@@ -1,0 +1,7 @@
+taking a nap
+done with a nap
+./forloop.sh: line 1: read: read error: 0: Bad file descriptor
+./forloop.sh: line 2: [: -le: unary operator expected
+./forloop.sh: line 1: read: read error: 0: Bad file descriptor
+./forloop.sh: line 2: [: -le: unary operator expected
+hello

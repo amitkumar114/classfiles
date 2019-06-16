@@ -1,0 +1,6 @@
+export PS3="please make a choice; "
+select i in vim tree wgit exit
+do 
+echo $i
+exit
+done 
